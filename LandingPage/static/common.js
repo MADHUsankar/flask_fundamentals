@@ -1,0 +1,1 @@
+alert("You are at landing page");
